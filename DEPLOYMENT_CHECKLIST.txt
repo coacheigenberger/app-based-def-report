@@ -1,0 +1,29 @@
+DEF REPORT GENERATOR WEB APP — DEPLOYMENT CHECKLIST
+
+YOU DO NOT INSTALL PYTHON ON THE SCHOOL COMPUTER.
+
+1. Extract this ZIP on any computer where you can manage files.
+2. Create a GitHub repository.
+3. Upload the CONTENTS of the DEF_Report_Generator_Web_App folder.
+   app.py must appear on the repository's main page, not inside an extra nested folder.
+4. Confirm these items appear:
+   - app.py
+   - def_report_engine.py
+   - requirements.txt
+   - assets folder
+5. Open Streamlit Community Cloud in a browser and sign in with GitHub.
+6. Create/deploy an app using:
+   Repository: your new repository
+   Branch: main
+   Main file path: app.py
+7. After deployment, open the app's web address.
+8. Bookmark that address on the school computer.
+
+WEEKLY:
+- Enter opponent.
+- Upload Excel/CSV.
+- Generate.
+- Download PowerPoint.
+
+PRIVACY:
+Use only a hosting service approved for your team/school data.
